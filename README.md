@@ -8,9 +8,9 @@ To check performance, Apache JMeter is used and ran tests on a cloud hosting.
 - Duration: 120 seconds per test for consistency.
 
 ## Metrics Analyzed
-•	Response Time: Measuring how long each version took to respond to requests under varying loads.
-•	Throughput: The number of requests processed per second, showing how well application can handle high demand.
-•	Sample processed: The number of requests processed per second.
+- Response Time: Measuring how long each version took to respond to requests under varying loads.
+- Throughput: The number of requests processed per second, showing how well application can handle high demand.
+- Sample processed: The number of requests processed per second.
 
 ## Test Results
 
